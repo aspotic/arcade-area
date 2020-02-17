@@ -1,0 +1,211 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="da">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META NAME="Description" CONTENT="Cool Java and Flash Games. You can play all the games online.">
+<META NAME="Keywords" CONTENT="funny cool online games spil på nettet gratis underholdning free internet game">
+
+<title>24 Hour Online Games</title>
+<base target="kategorier">
+</head>
+
+<body background="back_grey.jpg" topmargin="0" leftmargin="0">
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="67%">
+  <tr>
+    <td width="50%">
+<a href="http://www.partner-ads.com/dk/klikbanner.php?partnerid=1715&bannerid=698" target=_blank>
+<img src="http://www.partner-ads.com/dk/visbanner.php?partnerid=1715&bannerid=698" border=0></a></td>
+    <td width="50%">
+    <p align="right">
+    &nbsp;</td>
+  </tr>
+</table>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="799">
+    <tr>
+      <td width="864" background="back2.jpg" valign="top" height="5">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="794" height="494">
+        <tr>
+          <td width="95" height="65">
+          <p align="right" style="margin-top: 5">
+          &nbsp;</td>
+          <td width="236" colspan="2" height="65">
+          <p align="right">
+          <img border="0" src="24Hourdk.gif" width="117" height="52"></td>
+          <td width="436" rowspan="16" valign="top" height="556">
+          <p align="center">
+          <iframe name="kategorier" width="412" align="right" height="476" border="0" frameborder="0" src="main.htm">
+          </iframe></p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <div align="center">
+            <center>
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="97%" height="70">
+              <tr>
+                <td width="40%" height="70">
+                <p align="right">
+                &nbsp;</td>
+                <td width="60%" height="70">
+                <p align="left" style="margin-top: 0; margin-bottom: 0">&nbsp;<p align="left" style="margin-top: 0; margin-bottom: 0">
+                <font color="#3CC1D8">
+                <b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b></font></td>
+              </tr>
+            </table>
+            </center>
+          </div>
+          </td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">
+          <p align="right">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="331" colspan="3" height="22">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="24">&nbsp;</td>
+          <td width="182" height="24">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="69%">
+            <tr>
+              <td width="100%" colspan="2">
+          <a target="kategorier" href="main.htm">
+          <img border="0" src="MAINPAGE_v.gif" width="182" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+          <a target="kategorier" href="game/arcadetest.htm">
+          <img border="0" src="ARCADE.gif" width="91" height="21"></a></td>
+              <td width="50%"><a target="kategorier" href="game/actiontest.htm"><img border="0" src="ACTION.gif" width="91" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+              <a target="kategorier" href="game/strategitest.htm">
+              <img border="0" src="STRATEGY.gif" width="91" height="21"></a></td>
+              <td width="50%">
+          <a target="kategorier" href="game/puzzletest.htm"><img border="0" src="PUZZLE.gif" width="91" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+          <a target="kategorier" href="game/sporttest.htm">
+          <img border="0" src="SPORT.gif" width="91" height="21"></a></td>
+              <td width="50%"><a target="kategorier" href="game/othertest.htm"><img border="0" src="OTHER.gif" width="91" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+          <a target="kategorier" href="game/carracetest.htm">
+          <img border="0" src="CARRACE.gif" width="91" height="21"></a></td>
+              <td width="50%"><a target="kategorier" href="game/boardtest.htm"><img border="0" src="BOARD.gif" width="91" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+          <a target="kategorier" href="game/casino.htm">
+          <img border="0" src="CASINO.gif" width="91" height="21"></a></td>
+              <td width="50%">
+              <a href="game/platformtest.htm" target="kategorier">
+              <img border="0" src="PLATFORM.gif" width="91" height="21"></a></td>
+            </tr>
+            <tr>
+              <td width="50%">
+          <a target="kategorier" href="links.htm">
+          <img border="0" src="LINKS.gif" width="91" height="21"></a></td>
+              <td width="50%"><a target="kategorier" href="contact.htm"><img border="0" src="CONTACT.gif" width="91" height="21"></a></td>
+            </tr>
+          </table>
+          </td>
+          <td width="79" height="24">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="24">&nbsp;</td>
+          <td width="182" height="24">
+          <p align="center">
+          <b>
+          <a href="http://www.happyday.dk/jul/julespil.htm" style="text-decoration: none">
+          <font face="Arial" color="#FFFFFF" size="1">
+          </font><font face="Arial" color="#FFFFFF" size="1">
+          <a style="text-decoration: none" target="_top" href="julespil.htm">
+          <font color="#FFFFFF">JULESPIL</font></a></font></b></a></td>
+          <td width="79" height="24">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="24">&nbsp;</td>
+          <td width="182" height="24">
+          <p align="center"><b><a target="_top" href="julespil.htm">
+          <img src="http://www.happyday.dk/jul/other1.gif" border="0" width="58" height="68"></a></b></td>
+          <td width="79" height="24">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="23">&nbsp;</td>
+          <td width="182" height="23">
+          <p align="center">&nbsp;</td>
+          <td width="79" height="23">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="23">&nbsp;</td>
+          <td width="182" height="23">&nbsp;</td>
+          <td width="79" height="23">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="108" height="23">&nbsp;</td>
+          <td width="182" align="left" height="23" valign="bottom">
+          &nbsp;</td>
+          <td width="79" height="23">&nbsp;</td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+<p style="margin-top: 0; margin-bottom: 0">
+<a target="_blank" style="text-decoration: none" href="http://www.fun4all.dk/animals">
+<img src="http://www.fun4all.dk/animals/banner2.gif" border="0" width="468" height="60"></a><iframe name="I1" width="236" height="59" scrolling="no" border="0" frameborder="0" src="count.htm">Your browser does not support inline frames or is currently configured not to display inline frames.</iframe></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="10%">
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%">
+   </td>
+  </tr>
+</table>
+
+</body>
+
+</html>
